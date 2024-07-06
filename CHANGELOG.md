@@ -1,5 +1,11 @@
 # eslint-plugin-import-x
 
+## 0.5.4
+
+### Patch Changes
+
+- [#104](https://github.com/un-ts/eslint-plugin-import-x/pull/104) [`2d45869`](https://github.com/un-ts/eslint-plugin-import-x/commit/2d458695949a3e02792c558dca3caeae7f760fc7) Thanks [@SukkaW](https://github.com/SukkaW)! - Make `no-duplicates` way faster
+
 ## 0.5.3
 
 ### Patch Changes
